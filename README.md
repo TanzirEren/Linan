@@ -2,16 +2,16 @@
 
 <img src="assets/header.svg" alt="Linan - Hex to Smali Color Converter" width="100%"/>
 
-<a href="https://github.com/YOUR_USERNAME/Linan">
+<a href="https://github.com/TanzirEren/Linan">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=5B93C7&center=true&vCenter=true&width=640&lines=Hex+%E2%86%92+Smali+in+one+tap;Pick+colors+on+a+color+wheel;Paste+Smali%2C+see+the+color;Built+for+Android+modders+%F0%9F%9B%A0%EF%B8%8F" alt="Typing animation"/>
 </a>
 
 <br/>
 
-[![Download](https://img.shields.io/badge/DOWNLOAD-APK-5B93C7?style=for-the-badge&logo=android&logoColor=white)](https://github.com/YOUR_USERNAME/Linan/releases/latest/download/Linan-v1.0.0.apk)
-[![Release](https://img.shields.io/github/v/release/YOUR_USERNAME/Linan?style=for-the-badge&color=C5D45A&labelColor=1E2A36)](https://github.com/YOUR_USERNAME/Linan/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/Linan/total?style=for-the-badge&color=5B93C7&labelColor=1E2A36)](https://github.com/YOUR_USERNAME/Linan/releases)
-[![Build](https://img.shields.io/github/actions/workflow/status/YOUR_USERNAME/Linan/build.yml?style=for-the-badge&label=BUILD&labelColor=1E2A36)](https://github.com/YOUR_USERNAME/Linan/actions)
+[![Download](https://img.shields.io/badge/DOWNLOAD-APK-5B93C7?style=for-the-badge&logo=android&logoColor=white)](https://github.com/TanzirEren/Linan/releases/latest/download/Linan-v1.0.0.apk)
+[![Release](https://img.shields.io/github/v/release/TanzirEren/Linan?style=for-the-badge&color=C5D45A&labelColor=1E2A36)](https://github.com/TanzirEren/Linan/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/TanzirEren/Linan/total?style=for-the-badge&color=5B93C7&labelColor=1E2A36)](https://github.com/TanzirEren/Linan/releases)
+[![Build](https://img.shields.io/github/actions/workflow/status/TanzirEren/Linan/build.yml?style=for-the-badge&label=BUILD&labelColor=1E2A36)](https://github.com/TanzirEren/Linan/actions)
 
 ![Android](https://img.shields.io/badge/Android-5.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Only-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -79,7 +79,7 @@ Decimal    -1644826
 
 ## 📲 Download & Install
 
-1. Open the **[Releases](https://github.com/YOUR_USERNAME/Linan/releases/latest)** page.
+1. Open the **[Releases](https://github.com/TanzirEren/Linan/releases/latest)** page.
 2. Under **Assets**, download **`Linan-v1.0.0.apk`**.
 3. Open the file. If Android asks, allow **Install unknown apps** for your browser or file manager.
 4. Tap **Install**, then open **Linan**.
@@ -145,7 +145,7 @@ invoke-virtual {p0, v0}, Landroid/view/View;->setBackgroundColor(I)V
 ### Option 2 · Android Studio / Gradle
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Linan.git
+git clone https://github.com/TanzirEren/Linan.git
 cd Linan
 gradle assembleDebug
 # APK: app/build/outputs/apk/debug/app-debug.apk
@@ -190,7 +190,7 @@ No. Linan works fully offline and requests no permissions.
 
 ## 🤝 Contributing
 
-Issues and pull requests are welcome. Found a bug or have an idea? [Open an issue](https://github.com/YOUR_USERNAME/Linan/issues).
+Issues and pull requests are welcome. Found a bug or have an idea? [Open an issue](https://github.com/TanzirEren/Linan/issues).
 
 ---
 
